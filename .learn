@@ -6,3 +6,5 @@ languages:
   - language_1
 resources: 0
 live_assessment: true
+
+parent_template: git@github.com:learn-co-curriculum/rails-assessment.git

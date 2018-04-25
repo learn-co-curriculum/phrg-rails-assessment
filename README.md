@@ -106,3 +106,4 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-assessment'>Rails Portfolio Project</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Build a Rails App</p>
